@@ -3,7 +3,7 @@
 ***
 **Oswanson/Oswanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- You can't read this-->
+<!--How can you read this-->
 
 ___
 - 🔭 I’m currently working on ...
