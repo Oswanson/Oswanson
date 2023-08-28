@@ -15,6 +15,9 @@ ___
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Dictionary 
+https://www.dictionary.com/
+
 _This is a table_
 ___This___ | **Is** | _A_
 --- | --- | ---
